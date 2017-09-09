@@ -1,1 +1,3 @@
 #nuriilmi
+
+so we can know how cpu runs
