@@ -20,3 +20,4 @@ drwxr-xr-x  2 nurhikmah.ilmi StafCS 4096 Sep  9 15:15 week09
 drwxr-xr-x  2 nurhikmah.ilmi StafCS 4096 Sep  9 15:15 week10
 drwxr-xr-x  2 nurhikmah.ilmi StafCS 4096 Sep  9 15:16 xtra
 /home/fasilkom/mahasiswa/n/nurhikmah.ilmi/os172/week01
+Today is 
