@@ -1,0 +1,4 @@
+W02-170914-16-LR-about:Security, encryption, C programming
+w02-170915-8-PS-doing lab session
+w02-170915-10-LR-about:public-key Cryptography, C programming (syntaxx etc)
+w02-170916-14-PS-doing lab session
